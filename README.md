@@ -57,6 +57,7 @@ I’m an engineering student passionate about **Robotics, Embedded Systems, Comp
 
 ### 📊 **GitHub Statistics**
 <div align="center">
-  <h2>📊 Tech Metrics</h2>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitguyx8&theme=dark" alt="gitguyx8" /></p>
   <img src="https://metrics.lecoq.io/gitguyx8?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FCalcutta" alt="Metrics" />
 </div>
+
